@@ -1,16 +1,26 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**Egobian/Egobian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bienvenido a mi perfil de GitHub!
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+## Sobre mí
+
+Soy desarrollador .Net en [Hiberus](https://www.hiberus.com).
+
+Apasionado de los videojuegos y la tecnología.
+
+Actualmente desarrollando el sitio web [egobian.com](https://egobian.com)
+
+Me puedes encontrar en:
+
+[![Web](https://img.shields.io/badge/egobian.com-FFCA58?style=for-the-badge&logo=About.me&logoColor=black)](https://egobian.com)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-gomez-blanco/)
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/egobian/)
+
+[![freeCodeCamp](https://img.shields.io/badge/free%20code%20camp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white)](https://www.freecodecamp.org/egobian)
+
