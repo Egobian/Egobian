@@ -8,7 +8,7 @@ Bienvenido a mi perfil de GitHub!
 
 ## Sobre mí
 
-Soy desarrollador .Net en [Hiberus](https://www.hiberus.com).
+Desarrollador .Net.
 
 Apasionado de los videojuegos y la tecnología.
 
